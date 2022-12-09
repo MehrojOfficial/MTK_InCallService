@@ -1,6 +1,0 @@
-id=mtk_incallservice_fix
-name=MTK InCallService Fix
-version=v1.0
-versionCode=10
-author=Mehroj
-description=Fix for GSI roms on MTK devices that has In-Call Volume Issue
