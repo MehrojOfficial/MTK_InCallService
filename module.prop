@@ -1,0 +1,6 @@
+id=mtk_incallservice
+name=MTK InCallService Fix
+version=v1.0
+versionCode=10
+author=@byMehroj
+description=Fix for ROMs on MTK devices that has In-Call Volume Issue
