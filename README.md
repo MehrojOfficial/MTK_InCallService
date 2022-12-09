@@ -1,6 +1,10 @@
 # MTK InCallService
 Fix for ROMs on MTK devices that has In-Call Volume Issue
 
+### Download:
+- [Direct Link](https://www.pling.com/p/1952657/)
+
+
 ### Fixes:
 - Call volume can be changed during Call is active
 - High volume issue is fixed
