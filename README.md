@@ -18,5 +18,5 @@ Fix for ROMs on MTK devices that has In-Call Volume Issue
 - [Direct Link](https://www.pling.com/p/1952657/)
 
 **Credits:**
-Stella | Device-Tree Developer
-[@byMEHROJ](https://t.me/byMehroj)
+- Stella | Device-Tree Developer
+- [@byMEHROJ](https://t.me/byMehroj)
